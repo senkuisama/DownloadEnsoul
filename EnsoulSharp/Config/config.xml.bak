@@ -16,7 +16,7 @@
           <string>True</string>
           <string>False</string>
         </PosibleValues>
-        <SelectedValue>False</SelectedValue>
+        <SelectedValue>True</SelectedValue>
       </GameSettings>
       <GameSettings>
         <Name>Debug Console</Name>
@@ -24,7 +24,7 @@
           <string>True</string>
           <string>False</string>
         </PosibleValues>
-        <SelectedValue>False</SelectedValue>
+        <SelectedValue>True</SelectedValue>
       </GameSettings>
       <GameSettings>
         <Name>Disable Drawings</Name>

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BypassAfterRun>false</BypassAfterRun>
+  <SelectedColor>Emerald</SelectedColor>
+  <TosAccepted>true</TosAccepted>
+  <SelectedLanguage>Vietnamese</SelectedLanguage>
+  <FirstRun>false</FirstRun>
+  <ShowDevOptions>true</ShowDevOptions>
+  <Install>true</Install>
+  <UpdateOnLoad>true</UpdateOnLoad>
+  <Settings>
+    <GameSettings>
+      <GameSettings>
+        <Name>Anti-AFK</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>True</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Debug Console</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>True</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Disable Drawings</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Disable Prints</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Extended Zoom</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Anti OBS</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GameSettings>
+    </GameSettings>
+  </Settings>
+  <Hotkeys>
+    <SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>Reload</Name>
+        <Description>Reload the assemblies</Description>
+        <Hotkey>F5</Hotkey>
+        <HotkeyInt>116</HotkeyInt>
+        <DefaultKey>F5</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>RecompileAndReload</Name>
+        <Description>Recompile and reload the assemblies</Description>
+        <Hotkey>F7</Hotkey>
+        <HotkeyInt>118</HotkeyInt>
+        <DefaultKey>F7</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>Unload</Name>
+        <Description>Unload the assemblies</Description>
+        <Hotkey>F6</Hotkey>
+        <HotkeyInt>117</HotkeyInt>
+        <DefaultKey>F6</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>ShowMenuPress</Name>
+        <Description>Shows the menu (Press)</Description>
+        <Hotkey>LeftShift</Hotkey>
+        <HotkeyInt>16</HotkeyInt>
+        <DefaultKey>LeftShift</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>ShowMenuToggle</Name>
+        <Description>Shows the menu (Toggle)</Description>
+        <Hotkey>Capital</Hotkey>
+        <HotkeyInt>20</HotkeyInt>
+        <DefaultKey>Capital</DefaultKey>
+      </SelectedHotkeys>
+    </SelectedHotkeys>
+  </Hotkeys>
+  <SelectedProfile>
+    <Name>Default</Name>
+    <InstalledAssemblies>
+      <EnsoulSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>EnsoulSharp.SDK</DisplayName>
+        <Name>EnsoulSharp.SDK</Name>
+        <PathToProjectFile />
+        <PathToBinary>Reference\EnsoulSharp.SDK.dll</PathToBinary>
+        <OriginPathToBinary />
+        <Type>Library</Type>
+        <Description />
+        <SvnUrl />
+      </EnsoulSharpAssembly>
+      <EnsoulSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>TestOrbwalker</DisplayName>
+        <Name>TestOrbwalker</Name>
+        <PathToProjectFile />
+        <PathToBinary>C:\MyEnsoul\DownloadEnsoul-main\EnsoulSharp\EnsoulSharp\Cache\Plugins\TestOrbwalker.esplugin</PathToBinary>
+        <OriginPathToBinary>C:\MyEnsoul\DownloadEnsoul-main\Script\TestOrbwalker.esplugin</OriginPathToBinary>
+        <Type>Executable</Type>
+        <SvnUrl />
+      </EnsoulSharpAssembly>
+    </InstalledAssemblies>
+  </SelectedProfile>
+  <Profiles>
+    <Profiles>
+      <Name>Default</Name>
+      <InstalledAssemblies>
+        <EnsoulSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>EnsoulSharp.SDK</DisplayName>
+          <Name>EnsoulSharp.SDK</Name>
+          <PathToProjectFile />
+          <PathToBinary>Reference\EnsoulSharp.SDK.dll</PathToBinary>
+          <OriginPathToBinary />
+          <Type>Library</Type>
+          <Description />
+          <SvnUrl />
+        </EnsoulSharpAssembly>
+      </InstalledAssemblies>
+    </Profiles>
+  </Profiles>
+  <KnownRepositories />
+</Config>

@@ -4,6 +4,7 @@
   <SelectedColor>Blue</SelectedColor>
   <TosAccepted>true</TosAccepted>
   <SelectedLanguage>Vietnamese</SelectedLanguage>
+  <LeagueOfLegendsExePath>E:\32787\Game\League of Legends.exe</LeagueOfLegendsExePath>
   <FirstRun>false</FirstRun>
   <ShowDevOptions>true</ShowDevOptions>
   <Install>true</Install>
@@ -113,6 +114,18 @@
         <OriginPathToBinary />
         <Type>Library</Type>
         <Description />
+        <SvnUrl />
+      </EnsoulSharpAssembly>
+      <EnsoulSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>TestOrbwalker</DisplayName>
+        <Name>TestOrbwalker</Name>
+        <PathToProjectFile />
+        <PathToBinary>C:\MyEnsoul\DownloadEnsoul-main\EnsoulSharp\Cache\Plugins\TestOrbwalker.esplugin</PathToBinary>
+        <OriginPathToBinary>C:\MyEnsoul\DownloadEnsoul-main\Script\TestOrbwalker.esplugin</OriginPathToBinary>
+        <Type>Executable</Type>
         <SvnUrl />
       </EnsoulSharpAssembly>
     </InstalledAssemblies>

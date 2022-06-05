@@ -1,14 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BypassAfterRun>false</BypassAfterRun>
-  <SelectedColor>Blue</SelectedColor>
+  <SelectedColor>Sienna</SelectedColor>
   <TosAccepted>true</TosAccepted>
   <SelectedLanguage>Vietnamese</SelectedLanguage>
-  <LeagueOfLegendsExePath>E:\32787\Game\League of Legends.exe</LeagueOfLegendsExePath>
   <FirstRun>false</FirstRun>
   <ShowDevOptions>true</ShowDevOptions>
   <Install>true</Install>
-  <UpdateOnLoad>true</UpdateOnLoad>
+  <UpdateOnLoad>false</UpdateOnLoad>
   <Settings>
     <GameSettings>
       <GameSettings>

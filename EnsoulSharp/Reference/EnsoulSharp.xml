@@ -408,33 +408,12 @@
             <param name="thickness">The thickness.</param>
             <param name="color">The color.</param>
         </member>
-        <member name="M:EnsoulSharp.Drawing.DrawCircleIndicator(SharpDX.Vector3,System.Single,System.Drawing.Color)">
+        <member name="M:EnsoulSharp.Drawing.DrawCircle(SharpDX.Vector3,System.Single,System.Drawing.Color)">
             <summary>
 	Draws a circular range indicator at the given 3D position with the given radius in the specified color.
 </summary>
             <param name="position">The 3D world position.</param>
             <param name="radius">The radius.</param>
-            <param name="color">The color.</param>
-        </member>
-        <member name="M:EnsoulSharp.Drawing.DrawCircle(SharpDX.Vector3,System.Single,System.Single,System.Int32,System.Boolean,System.Drawing.Color)">
-            <summary>
-	Draws a 3d circle by algorithm.
-</summary>
-            <param name="position">The world position.</param>
-            <param name="radius">The radius.</param>
-            <param name="thickness">The thickness.</param>
-            <param name="segments">The segments.</param>
-            <param name="centerZ">A value indicating whether use center z as default.</param>
-            <param name="color">The color.</param>
-        </member>
-        <member name="M:EnsoulSharp.Drawing.DrawCircle(SharpDX.Vector2,System.Single,System.Single,System.Int32,System.Drawing.Color)">
-            <summary>
-	Draws a 2d circle by algorithm.
-</summary>
-            <param name="position">The screen position.</param>
-            <param name="radius">The radius.</param>
-            <param name="thickness">The thickness.</param>
-            <param name="segments">The segments.</param>
             <param name="color">The color.</param>
         </member>
         <member name="P:EnsoulSharp.Drawing.Height">
@@ -1928,6 +1907,11 @@
         <member name="P:EnsoulSharp.AIBaseClient.FlatMagicDamageMod">
             <summary>
 	Gets the flat magic damage mod of the object.
+</summary>
+        </member>
+        <member name="P:EnsoulSharp.AIBaseClient._PercentCooldownMod">
+            <summary>
+	Gets the percent cooldown mod of the object.
 </summary>
         </member>
         <member name="P:EnsoulSharp.AIBaseClient.PercentCooldownMod">
